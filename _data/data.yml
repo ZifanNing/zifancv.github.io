@@ -158,7 +158,7 @@ publications:
       authors: First author
       conference: International Conference on Information Technology and Computer Application.
       details: |
-      Introduced the development and prospect of natural language processing on Twitter software.
+        Introduced the development and prospect of natural language processing on Twitter software.
     - title: Text-Inspired Numerical Dominant Feature Discovery for Short-Term Power Demand Forecasting in IES
       authors: First author
       confernece:  IEEE Transactions on Power Systems.
@@ -254,7 +254,7 @@ certificates:
 
 
 languages:
-  display: true
+  display: false
   title: Languages
   items:
     - idiom: Chinese
@@ -263,7 +263,7 @@ languages:
       level: Professional
 
 interests:
-  display: true
+  display: false
   title: Interests
   items:
     - item: Reading
@@ -272,7 +272,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
