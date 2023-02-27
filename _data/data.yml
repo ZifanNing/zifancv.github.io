@@ -39,7 +39,7 @@ education:
   display: true
   title: Education
   items:
-    - university: King's College London
+    - university: Kings College London
       time: 2021 - 2022
       major: Robotics
       degree: Master of Science
@@ -73,7 +73,7 @@ experiences:
     - role: Master student and Continueing Research
       time: 2022.6 - 2022.12
       company: King's College London
-      tag: (Dr. Bipin Rajendran)
+      tag: (Dr.Bipin Rajendran)
       location: London
       details: |
         + Un-pay research assistant.
@@ -85,7 +85,7 @@ experiences:
     - role: Research Assistant
       time: 2021.12 - 2022.3
       company: Hunan University
-      tag: (Dr. Jin Min)
+      tag: (Dr.Jin Min)
       location: Changsha
       details: |
       Power Demand Forecasting based on Natural Language Processing.
@@ -109,7 +109,7 @@ experiences:
     - role: Research member
       time: 2020.6 - 2020.10
       company: Imperial College London
-      tag: (Prof. Specia)
+      tag: (Prof.Specia)
       location: London
       details: |
       Natural Language Processing for Text Classification Project-Based Learning Program
@@ -184,7 +184,12 @@ publications:
         + The classification accuracy of the MNIST dataset on the underlying convolutional spiking neural network after the firing threshold is adaptively adjusted is improved by 15%.
 
 
-
+patents:
+  display: true
+  title: Patents
+  details: |
+    This is all my patents.
+    + 用于数据波动预测的数值特征发现方法及系统与介质 (YS00420221001548)
 
 
 
@@ -245,12 +250,7 @@ certificates:
 
 
 
-patents:
-  display: true
-  title: Patents
-  details: |
-    This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
+
 
 languages:
   display: true
