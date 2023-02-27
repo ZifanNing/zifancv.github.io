@@ -25,9 +25,9 @@ contact:
   quora:
   goodreads:
 
-Education:
-  display: true
-  title: Education
+profile:
+  display: false
+  title: Profile
   details: |
     It's your career profile, you can wirte markdown format text.
     + First
@@ -35,9 +35,31 @@ Education:
 
     ...
 
-experiences:
+education:
   display: true
-  title: Experiences
+  title: Education
+  items:
+    - university: King's College London
+      time: 2021 - 2022
+      major: Robotics
+      degree: Master of Science
+      details: |
+        + Degree: First Class.
+        + Dissertation: Neuromorphic Computing.
+        + Modules: Robotics Systems, Conputer Vision, Machine Learning, Real-Time System, Brain-Inspired Computation, Agent and Multi-agent Systems, Sensors and Actuators, Bioligical Inspired Method.
+
+    - university: Hunan University
+      time: 2017 - 2021
+      major: Software Engineering
+      degree: Bachelor of Engineering
+      details: |
+        + Dissertation: Power Demand Forecasting in Integrate Energy Systems.
+        + Modules: Computer Vision, Image processing, Human-Computer-Interaction, Machine Learning, Computer Graphics, Virtual Reality, Computer Algorithms, Advanced Mathematics, Advanced Physics, Operating Systems, etc.
+        
+
+experiences:
+  display: false
+  title: Research Experiences
   items:
     - role: Backend Developer
       time: 2018.03 - 2019.03
@@ -64,7 +86,7 @@ experiences:
         ...
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -81,7 +103,7 @@ projects:
         Project Bar's detail, you can write markdown format text.
 
 skills:
-  display: true
+  display: false
   title: Skills
   details: |
     Here is my skills:
@@ -98,34 +120,10 @@ skills:
     - name: Skill C
       level: 70
 
-education:
-  display: true
-  title: Education
-  items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
 
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
 
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -144,7 +142,6 @@ publications:
   display: true
   title: Publications
   intro: |
-    This is all the books I wrote.
 
   items:
     - title: Foo in Action
