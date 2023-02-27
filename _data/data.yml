@@ -211,18 +211,25 @@ skills:
   title: Skills
   details: |
     Here is my skills:
-    + First
-    + Second
+    + Python
+    + Latex
+    + SQL
+    + Markdown
+    + Linux systems
 
     ...
 
   levels:
-    - name: Skill A
+    - name: Python
+      level: 95
+    - name: Latex
       level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
+    - name: SQL
       level: 70
+    - name: Markdown
+      level: 90
+    - name: Linux
+      level: 85
 
 
 
