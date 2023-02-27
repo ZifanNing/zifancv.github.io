@@ -58,7 +58,7 @@ education:
         
 
 experiences:
-  display: false
+  display: true
   title: Research Experiences
   items:
     - role: Research Assistant
@@ -145,14 +145,21 @@ publications:
   intro: |
 
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
+    - title: Mining and display of strong correlation features in power demand forecasting
+      authors: First author
+      conference: Bechelor Thesis (mark 92)
+      link: 
+      details: |
+        + More than 300 load correlation feature data were found in five global regions.
+        + Synthesize the relevant characteristics of geographical, astronomical and social dimensions, and construct a three-dimensional multivariate source tracking dataset for power demand forecasting.
+        + A database of strong correlation characteristics was established to classify and integrate the existing influencing factors of power fluctuations.
+    - title: STDP-based Adoptive Fire Threshold Learning Mechanism on Spiking Neural Networks.
+      authors: Fist author
+      conference: Master Thesis (mark 82)
       link:
+      details: |
+        + Proposed a new firing threshold training mechanism based on the existing STDP training rule of convolutional spiking neural networks.
+        + A feedback mechanism is found in unsupervised learning spiking neural networks to adjust neuron firing thresholds during each training epoch.
 
 
 projects:
