@@ -84,7 +84,7 @@ experiences:
       tag: (Dr.Jin Min)
       location: Changsha
       details: |
-      Power Demand Forecasting based on Natural Language Processing.
+        Power Demand Forecasting based on Natural Language Processing.
         + Used natural language processing domain knowledge to establish a corpus of load fluctuation related factors to explore relevant features for power demand forecasting.
         + A four-dimensional and multi-source traceability feature set is constructed to analyze the main factors affecting power demand forecasting from the perspectives of astronomy, geography, society and integrate energy systems.
         + The impact of four major electricity consumption groups(agricultural, industrial, commercial, residential) on power demand forecasts is systematically analyzed in detail.
@@ -106,7 +106,7 @@ experiences:
       tag: (Prof.Specia)
       location: London
       details: |
-      Natural Language Processing for Text Classification Project-Based Learning Program
+        Natural Language Processing for Text Classification Project-Based Learning Program
         + Systematically learned the knowledge of the field of natural language processing.
         + Participate in the semantic evaluation contest semeval 2020-Task4 and achieve 78% accuracy.
         + A Survey Report.
@@ -117,7 +117,7 @@ experiences:
       tag: (Prof. Lin Hongli)
       location: Changsha
       details: |
-      Pedestrian re-identification
+        Pedestrian re-identification
         + Systematically learned the knowledge of the field of deep learning.
         + Wrote a WeChat applet for image classification and tagging to improve the efficiency of manual tagging, and manually tagged more than a thousand photos.
         + Used PYTorch to build a Transformer neural network for pedestrian re-identification and achieved 93% accuracy, mAP=75.13%.
@@ -128,7 +128,7 @@ experiences:
       tag: (Prof. Yang Kehua)
       location: Changsha
       details: |
-      Dushulang PAD Interaction.
+        Dushulang PAD Interaction.
         + Systematically learned the knowledge of JavaScript, HTML and CSS.
         + Wrote three game APP frameworks for the Dushulang PAD , defining refresh and interaction forms. 
 
@@ -207,7 +207,7 @@ projects:
         Project Bar's detail, you can write markdown format text.
 
 skills:
-  display: false
+  display: true
   title: Skills
   details: |
     Here is my skills:
