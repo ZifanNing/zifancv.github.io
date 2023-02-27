@@ -1,33 +1,33 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Zifan Ning
+  title: Fast Learner
   avatar:
     display: true
     path: profile.png
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
-  wechat:
+  email: k21039518@kcl.ac.uk, isstillmessup@gmail.com
+  phone: +44 07450816755, +86 18174457032
+  website: https://zifanning.github.io (currently under maintains)
+  wechat: 18174457032
   whatsapp:
   telegram:
-  github: github
+  github: 
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
   linkedin:
   medium:
-  twitter: twitter
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
 
-profile:
+Education:
   display: true
-  title: Profile
+  title: Education
   details: |
     It's your career profile, you can wirte markdown format text.
     + First
