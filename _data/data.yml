@@ -39,7 +39,7 @@ education:
   display: true
   title: Education
   items:
-    - university: Kings College London
+    - university: King's College London
       time: 2021 - 2022
       major: Robotics
       degree: Master of Science
@@ -68,8 +68,6 @@ experiences:
       location: Beijing
       details: |
         + Neuromorphic computing and cognition learning.
-
-
     - role: Master student and Continueing Research
       time: 2022.6 - 2022.12
       company: King's College London
@@ -79,9 +77,7 @@ experiences:
         + Un-pay research assistant.
         + After finishing my dissertation, I put forward my novel ideas and produced two papers.
         + Proposed Adaptive Firing Threshold Learning mechanism on SNN and submitted a research paper.
-        + Proposed a convolution SNN-based spatial-temporal signal analysis method and submitted a research paper.
-        
-        
+        + Proposed a convolution SNN-based spatial-temporal signal analysis method and submitted a research paper.     
     - role: Research Assistant
       time: 2021.12 - 2022.3
       company: Hunan University
@@ -94,7 +90,6 @@ experiences:
         + The impact of four major electricity consumption groups(agricultural, industrial, commercial, residential) on power demand forecasts is systematically analyzed in detail.
         + A research paper is under reviewing in IEEE Transactions on Power Systems. 
         + A patent introducing a numerical feature discovery menthod and system is published.
-        
     - role: Robomaster Southern China Regional Tournament
       time: 2021.6 - 2021.9 
       company: Hunan University team Yuelu
@@ -105,7 +100,6 @@ experiences:
         + Improve robot object recognition accuracy and speed, optimize convolutional neural network structure.
         + Train new team members every Wednesday night and teach through online meetings.
         + Won the RMUC Southern China Regional Tournament second prize.
-    
     - role: Research member
       time: 2020.6 - 2020.10
       company: Imperial College London
