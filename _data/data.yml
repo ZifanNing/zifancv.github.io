@@ -61,29 +61,99 @@ experiences:
   display: false
   title: Research Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
+    - role: Research Assistant
+      time: 2023.1 - 
+      company: Chinese Academy of Science
       tag:
       location: Beijing
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Neuromorphic computing and cognition learning.
 
-        ...
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Master student and Continueing Research
+      time: 2022.6 - 2022.12
+      company: King's College London
+      tag: (Dr. Bipin Rajendran)
+      location: London
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Un-pay research assistant.
+        + After finishing my dissertation, I put forward my novel ideas and produced two papers.
+        + Proposed Adaptive Firing Threshold Learning mechanism on SNN and submitted a research paper.
+        + Proposed a convolution SNN-based spatial-temporal signal analysis method and submitted a research paper.
+        
+        
+    - role: Research Assistant
+      time: 2021.12 - 2022.3
+      company: Hunan University
+      tag: (Dr. Jin Min)
+      location: Changsha
+      details: |
+      Power Demand Forecasting based on Natural Language Processing.
+        + Used natural language processing domain knowledge to establish a corpus of load fluctuation related factors to explore relevant features for power demand forecasting.
+        + A four-dimensional and multi-source traceability feature set is constructed to analyze the main factors affecting power demand forecasting from the perspectives of astronomy, geography, society and integrate energy systems.
+        + The impact of four major electricity consumption groups(agricultural, industrial, commercial, residential) on power demand forecasts is systematically analyzed in detail.
+        + outcome: a research paper is under reviewing in IEEE Transactions on Power Systems. 
+        + outcome: a patent introducing a numerical feature discovery menthod and system is published.
+        
+    - role: Robomaster Southern China Regional Tournament
+      time: 2021.6 - 2021.9 
+      company: Hunan University team Yuelu
+      tag:
+      location: Changsha
+      details: |
+        + Hunan University team -"YueLu" CV Group member.
+        + Improve robot object recognition accuracy and speed, optimize convolutional neural network structure.
+        + Train new team members every Wednesday night and teach through online meetings.
+        + Won the RMUC Southern China Regional Tournament second prize.
+    
+    - role: Research member
+      time: 2020.6 - 2020.10
+      company: Imperial College London
+      tag: (Prof. Specia)
+      location: London
+      details: |
+      Natural Language Processing for Text Classification Project-Based Learning Program
+        + Systematically learned the knowledge of the field of natural language processing.
+        + Participate in the semantic evaluation contest semeval 2020-Task4 and achieve 78% accuracy.
+        + Publishment: NLP Based on Twitter Information: A Survey Report.
+    
+    - role: Research member
+      time: 2020.1 - 2020.6
+      company: Hunan University
+      tag: (Prof. Lin Hongli)
+      location: Changsha
+      details: |
+      Pedestrian re-identification
+        + Systematically learned the knowledge of the field of deep learning.
+        + Wrote a WeChat applet for image classification and tagging to improve the efficiency of manual tagging, and manually tagged more than a thousand photos.
+        + Used PYTorch to build a Transformer neural network for pedestrian re-identification and achieved 93% accuracy, mAP=75.13%.
+        
+    - role: Research member
+      time: 2021.9 - 2021.11
+      company: Hunan University
+      tag: (Prof. Yang Kehua)
+      location: Changsha
+      details: |
+      Dushulang PAD Interaction.
+        + Systematically learned the knowledge of JavaScript, HTML and CSS.
+        + Wrote three game APP frameworks for the Dushulang PAD , defining refresh and interaction forms. 
 
-        ...
+
+publications:
+  display: true
+  title: Publications
+  intro: |
+
+  items:
+    - title: Foo in Action
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link: https://www.google.com
+    - title: The Art of Bar
+      authors: Foo Bar
+      conference: Foobar, 2019
+      link:
+
 
 projects:
   display: false
@@ -138,20 +208,7 @@ certificates:
       link: https://www.google.com
       details: |
 
-publications:
-  display: true
-  title: Publications
-  intro: |
 
-  items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
 
 patents:
   display: true
