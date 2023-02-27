@@ -92,8 +92,8 @@ experiences:
         + Used natural language processing domain knowledge to establish a corpus of load fluctuation related factors to explore relevant features for power demand forecasting.
         + A four-dimensional and multi-source traceability feature set is constructed to analyze the main factors affecting power demand forecasting from the perspectives of astronomy, geography, society and integrate energy systems.
         + The impact of four major electricity consumption groups(agricultural, industrial, commercial, residential) on power demand forecasts is systematically analyzed in detail.
-        + outcome: a research paper is under reviewing in IEEE Transactions on Power Systems. 
-        + outcome: a patent introducing a numerical feature discovery menthod and system is published.
+        + A research paper is under reviewing in IEEE Transactions on Power Systems. 
+        + A patent introducing a numerical feature discovery menthod and system is published.
         
     - role: Robomaster Southern China Regional Tournament
       time: 2021.6 - 2021.9 
@@ -115,7 +115,7 @@ experiences:
       Natural Language Processing for Text Classification Project-Based Learning Program
         + Systematically learned the knowledge of the field of natural language processing.
         + Participate in the semantic evaluation contest semeval 2020-Task4 and achieve 78% accuracy.
-        + Publishment: NLP Based on Twitter Information: A Survey Report.
+        + A Survey Report.
     
     - role: Research member
       time: 2020.1 - 2020.6
@@ -160,6 +160,34 @@ publications:
       details: |
         + Proposed a new firing threshold training mechanism based on the existing STDP training rule of convolutional spiking neural networks.
         + A feedback mechanism is found in unsupervised learning spiking neural networks to adjust neuron firing thresholds during each training epoch.
+    - title: NLP Based on Twitter Information: A Survey Report 
+      authors: First author
+      conference: International Conference on Information Technology and Computer Application.
+      details: |
+      Introduced the development and prospect of natural language processing on Twitter software.
+    - title: Text-Inspired Numerical Dominant Feature Discovery for Short-Term Power Demand Forecasting in IES
+      authors: First author
+      confernece:  IEEE Transactions on Power Systems.
+      details: |
+        + under minor revision
+        + The strong correlation characteristics in power load prediction are excavated and displayed from the perspective of text mining.
+        + Collated more than 300 load related feature data, classified them by clustering, and constructed a four-dimensional multivariate source traceability dataset.
+        + The four-dimensional multivariate source traceability dataset achieves <4.0% MAPE accuracy on all five machine learning models.
+        + The impact of four major electricity consumption groups(agricultural, industrial, commercial, residential) on power demand forecasts is systematically analyzed in detail.
+    - title: STDP-based Adaptive Fire Threshold Learning Mechanism on Spiking Neural Networks.
+      authors: First author
+      conference: Neural Networks.
+      details: |
+        + currently under review
+        + Proposed an Adaptive Firing Threshold Learning mechanism on SNN.
+        + In each training epoch, the firing thresholds for each neuron are adaptively adjusted based on the results of the training.
+        + The classification accuracy of the MNIST dataset on the underlying convolutional spiking neural network after the firing threshold is adaptively adjusted is improved by 15%.
+
+
+
+
+
+
 
 
 projects:
