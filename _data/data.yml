@@ -2,7 +2,7 @@ basic:
   name: Zifan Ning
   title: Fast Learner, Labrador pal
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
