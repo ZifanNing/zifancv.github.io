@@ -154,7 +154,7 @@ publications:
       details: |
         + Proposed a new firing threshold training mechanism based on the existing STDP training rule of convolutional spiking neural networks.
         + A feedback mechanism is found in unsupervised learning spiking neural networks to adjust neuron firing thresholds during each training epoch.
-    - title: NLP Based on Twitter Information: A Survey Report 
+    - title: NLP Based on Twitter Information A Survey Report 
       authors: First author
       conference: International Conference on Information Technology and Computer Application.
       details: |
